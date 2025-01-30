@@ -251,18 +251,18 @@ margin-top: -450px;
    }
   
   .btn3{
-      background: #000;
-      border: 3px solid #0295ff !important;
-      box-shadow: 0 10px 50px -15px #0295ff;
-      color: #fff !important;
-      padding: 16.5px 40px !important;
-      border-radius: 21px;
-      transition: all .25s ease-out;
-      margin-right: 15px;
-    box-shadow: 0px 7px 12px 0px deeppink;
-    animation: appear linear;
-    animation-timeline: view();
-    animation-range:entry 0% cover 40%;  
+    background: #000;
+    border: 4.5px solid #0295ff !important;
+    box-shadow: 0 10px 50px -15px #0295ff;
+    color: #fff !important;
+    padding: 16.5px 70px !important;
+    border-radius: 21px;
+    margin-left: 50px;
+    transition: all .25s ease-out;
+  box-shadow: 0px 7px 12px 0px #02955ff;
+  animation: appear linear;
+  animation-timeline: view();
+  animation-range:entry 0% cover 40%;  
   }
     
   a {
